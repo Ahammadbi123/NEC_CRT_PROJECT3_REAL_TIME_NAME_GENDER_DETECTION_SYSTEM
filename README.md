@@ -1,6 +1,3 @@
-
-
-```markdown
 # Real-Time Name and Gender Detection System using CNN and OpenCV
 
 An AI-powered system built with Python, OpenCV, and TensorFlow to identify registered users and predict their gender from live webcam feeds using Convolutional Neural Networks (CNN).
