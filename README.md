@@ -1,8 +1,4 @@
-మీ GitHub రిపోజిటరీ చాలా ప్రొఫెషనల్‌గా కనిపించడానికి ఈ క్రింది **README.md** కంటెంట్‌ను ఉపయోగించండి. 
 
-దీన్ని మీరు మీ ప్రాజెక్ట్ మెయిన్ ఫోల్డర్‌లో `README.md` అనే కొత్త ఫైల్ క్రియేట్ చేసి అందులో పేస్ట్ చేయండి (లేదా GitHub వెబ్‌సైట్‌లో 'Add a README' నొక్కి అక్కడ పేస్ట్ చేయండి).
-
----
 
 ```markdown
 # Real-Time Name and Gender Detection System using CNN and OpenCV
