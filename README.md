@@ -71,8 +71,3 @@ For any issues or questions, feel free to open an issue or reach out to the auth
 **Developed By:** SHAIK AHAMMAD BI
 **Updated:** June 2026
 ```
-
----
-
-
-ఇది పూర్తి అయ్యాక మీ GitHub ప్రొఫైల్ చూస్తే అది ఒక **Professional Software Engineer** ప్రొఫైల్ లాగా కనిపిస్తుంది బ్రో! 🚀🔥
